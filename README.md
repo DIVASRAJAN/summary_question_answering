@@ -1,2 +1,4 @@
 # summary_question_answering
 Transformer based summary cum question answering model
+
+Introducing my latest project, an innovative Summarization cum Question Answering Model powered by state-of-the-art Transformer architectures. Leveraging the cutting-edge capabilities of Google's Pegasus-XSum for summarization and Deepset's RoBERTa-base-SQuAD2 for question answering, our solution combines the prowess of these advanced models to deliver unparalleled performance in text summarization and question-answering tasks. Additionally, I have integrated a user-friendly interface using Gradio, allowing users to effortlessly interact with the model, input text for summarization, pose questions for answering, and receive instant responses. This project represents a significant advancement in natural language processing technology, offering users a powerful tool for extracting insights and understanding from textual data with ease and efficiency.
